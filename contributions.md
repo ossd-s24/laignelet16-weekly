@@ -22,6 +22,6 @@ Replace the first row with your own contribution.
 
 | Date #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
-| Feb 7, 2024   |  [Contributions on Wiki](https://en.wikipedia.org/wiki/Special:Contributions/NYC16)    | Wikipedia    |   I fixed the grammar and sentence structure of two different posts; one was about JoBlo.com and another one was about Cali, Colombia.   |
+| Feb 7, 2024   | [JoBlo.com](https://en.wikipedia.org/w/index.php?title=JoBlo.com&action=history)| Wikipedia    |   I fixed the grammar and sentence structure for JoBlo.com.    |
 |     |     |     |      |
 |     |     |     |      |
