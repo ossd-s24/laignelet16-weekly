@@ -22,6 +22,6 @@ Replace the first row with your own contribution.
 
 | Date #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
-| Feb 3   | link to my contribution    | course website    |   I fixed a broken link.    |
+| Feb 7, 2024   |  [Contributions on Wiki](https://en.wikipedia.org/wiki/Special:Contributions/NYC16)    | Wikipedia    |   I fixed the grammar and sentence structure of two different posts; one was about JoBlo.com and another one was about Cali, Colombia.   |
 |     |     |     |      |
 |     |     |     |      |
