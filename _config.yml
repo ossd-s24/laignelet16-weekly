@@ -29,6 +29,7 @@ excerpt_separator: <!--more-->
 # Flags below are optional - customize them if you wish
 # The github flag should be replaced by your own github account name.
 #
+future: true
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
