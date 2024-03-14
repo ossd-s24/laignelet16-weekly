@@ -28,4 +28,8 @@ Replace the first row with your own contribution.
 |  Feb 25, 2024|     [OpenStreet Map](https://www.openstreetmap.org/changeset/147916114#map=19/40.76062/-74.08364)|    OpenStreet Map Website |   I added the new address of a school called High Tech High School.   |
 |  March 5, 2024   | [Wikipedia of DisneyXD](https://en.wikipedia.org/w/index.php?title=Disney_XD_(British_and_Irish_TV_channel)&action=history)   |   DisneyXD's Wikipedia  |  I made the paragraph more concise and fixed a few grammar issues.   |
 |  March 14, 2024   |  [OSSD Website Github](https://github.com/joannakl/ossd/pull/106)   |  OSSD Website Github   |  I added an open source healthcare project in order to replace a healthcare project that is archived.    |
+|  March 14, 2024   |  [Siglo Issue](https://github.com/sigle/sigle/issues/1034)   |   Siglo (OpenSource writing/blog app)  |   I added an issue of requesting for a code of conduct for Siglo that currently only has a contributing and README file.   |
+|     |     |     |      |
+|     |     |     |      |
+|     |     |     |      |
 |     |     |     |      |
