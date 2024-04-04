@@ -32,6 +32,6 @@ Replace the first row with your own contribution.
 | March 24, 2024   | [Siglo PR](https://github.com/sigle/sigle/pull/1036)    |   Siglo (OpenSource writing/blog app)  |  I did a pull request to add a code of conduct to the repo.    |
 | April 4, 2024    |   [Better Canvas Issue](https://github.com/ksucpea/bettercanvas/issues/65)  |   Better Canvas (making canvas better)  |  I added an issue of requesting for a code of conduct for Better Canvas that currently only has a contributing and README file.    |
 | April 4, 2024    |  [Custom CSS Injector](https://github.com/blizz31/customcssinjector/issues/5)   |  Custom CSS Injector  |   I added an issue of requesting for a code of conduct, contribution, and license files for Custom CSS Injector.     |
-| April 4, 2024    |   [Dark Cloud](https://github.com/iamdiogo/DarkCloud/issues/38)   |   Dark Cloud   |   I added an issue of requesting for a contribution and code of conduct files for Custom CSS Injector.    |
+| April 4, 2024    |   [Dark Cloud](https://github.com/iamdiogo/DarkCloud/issues/38)   |   Dark Cloud   |   I added an issue of requesting for a contribution and code of conduct files for Dark Cloud.    |
 |     |     |     |      |
 |     |     |     |      |
