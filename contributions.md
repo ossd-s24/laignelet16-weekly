@@ -34,4 +34,7 @@ Replace the first row with your own contribution.
 | April 4, 2024    |  [Custom CSS Injector](https://github.com/blizz31/customcssinjector/issues/5)   |  Custom CSS Injector  |   I added an issue of requesting for a code of conduct, contribution, and license files for Custom CSS Injector.     |
 | April 4, 2024    |   [Dark Cloud](https://github.com/iamdiogo/DarkCloud/issues/38)   |   Dark Cloud   |   I added an issue of requesting for a contribution and code of conduct files for Dark Cloud.    |
 | April 9, 2024    |  [BetterCanvas PR(Merged)](https://github.com/ksucpea/bettercanvas/pull/66)   |  Better Canvas (making canvas better)    |    I did a pull request to add a code of conduct to the repo.    |
+| April 23, 2024     |  [goodfirstissues](https://github.com/iedr/goodfirstissues/issues/64)   |   Good First Issue Project  |   I added an issue of requesting for a contribution and code of conduct files for  goodfirstissues.  |
+|     |     |     |      |
+|     |     |     |      |
 |     |     |     |      |
