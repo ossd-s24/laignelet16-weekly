@@ -40,3 +40,4 @@ Replace the first row with your own contribution.
 |   April 28, 2024  |   [Wikipedia Edits](https://en.wikipedia.org/w/index.php?title=Cassie_Brady&action=history)  |  Wikipedia Page about Cassie Brady   |   I added a few words (e.g. verbs) and commas to make the sentences flow better. (NYC16)  |
 |   April 28, 2024  |  [OpenStreetMaps Edit](https://www.openstreetmap.org/way/807297881#map=19/40.80327/-74.02095&layers=N)   |   OpenStreetMaps about Chipotle  |   I changed it from what was there (Carl's Jr.) to Chipotle.   |
 |  April 28, 2024  |  [OpenStreetMaps Edit](https://www.openstreetmap.org/changeset/150642909)   |   OpenStreetMaps about Taco Bell  |   I added the new Taco Bell restaurant near that area.   |
+|  April 28, 2024  |  [Wikipedia Edit](https://en.wikipedia.org/w/index.php?title=Dan_Humphrey&action=history)   |   Wikipedia about Dan Humphrey  |   I added grammatical edits to Dan Humphrey's wiki page.  |
