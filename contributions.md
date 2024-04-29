@@ -37,4 +37,5 @@ Replace the first row with your own contribution.
 | April 23, 2024     |  [goodfirstissues issue](https://github.com/iedr/goodfirstissues/issues/64)   |   Good First Issue Project  |   I added an issue of requesting for a contribution and code of conduct files for  goodfirstissues.  |
 |  April 24, 2024   |  [AlgoBook PR](https://github.com/geekquad/AlgoBook/pull/588)   |  AlgoBook   |   I created a tutorial about queues and an example that uses queues in Java   |
 |  April 28, 2024   |  [Awesome CSS Projects- PR](https://github.com/irshadmd/Awesome-CSS-Projects/pull/236)   |  Awesome CSS Projects  |   I created a PR request about a fun game that anybody can use and can get inspiration to improve when they have the time and chance to do so!   |
+|   April 28, 2024  |   [Wikipedia Edits](https://en.wikipedia.org/w/index.php?title=Cassie_Brady&action=history)  |  Wikipedia Page about Cassie Brady   |   I added a few words (e.g. verbs) and commas to make the sentences flow better. (NYC16)  |
 |     |     |     |      |
