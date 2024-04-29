@@ -38,4 +38,5 @@ Replace the first row with your own contribution.
 |  April 24, 2024   |  [AlgoBook PR](https://github.com/geekquad/AlgoBook/pull/588)   |  AlgoBook   |   I created a tutorial about queues and an example that uses queues in Java   |
 |  April 28, 2024   |  [Awesome CSS Projects- PR](https://github.com/irshadmd/Awesome-CSS-Projects/pull/236)   |  Awesome CSS Projects  |   I created a PR request about a fun game that anybody can use and can get inspiration to improve when they have the time and chance to do so!   |
 |   April 28, 2024  |   [Wikipedia Edits](https://en.wikipedia.org/w/index.php?title=Cassie_Brady&action=history)  |  Wikipedia Page about Cassie Brady   |   I added a few words (e.g. verbs) and commas to make the sentences flow better. (NYC16)  |
-|     |     |     |      |
+|   April 28, 2024  |  [OpenStreetMaps Edit](https://www.openstreetmap.org/way/807297881#map=19/40.80327/-74.02095&layers=N)   |   OpenStreetMaps about Chipotle  |   I changed it from what was there (Carl's Jr.) to Chipotle.   |
+|  April 28, 2024  |  [OpenStreetMaps Edit](https://www.openstreetmap.org/changeset/150642909)   |   OpenStreetMaps about Taco Bell  |   I added the new Taco Bell restaurant near that area.   |
